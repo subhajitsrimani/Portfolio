@@ -22,7 +22,7 @@ export const projectsData = [
     image: Work3,
     title: "radioZone",
     category: "web",
-    deploymentLink: "https://shop-lift.netlify.app/",
+    deploymentLink: "https://github.com/subhajitsrimani/spotify-clone",
   },
 ];
 
